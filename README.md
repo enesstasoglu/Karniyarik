@@ -1,2 +1,2 @@
 # Karniyarik
- recipe for beginner
+ basic recipe
